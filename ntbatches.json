@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "id": 193,
+      "title": "NIRMAAN 2.0 BATCH Class 8th",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/6292174_125_Nirmaan%202.0%20Batch%20Class%208th%20App%20Banners09.png",
+      "mrp": "5000.00",
+      "start_date": "21 Jun 2026",
+      "end_date": "01 Aug 2027"
+    },
+    {
+      "id": 192,
+      "title": "IOQM + NSEJS +SEHSS (CRASH COURSE)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/7718044_125_Olympaid%20Combo%20App%20Banners09%20%281%29.png",
+      "mrp": "5999.00",
+      "start_date": "18 Jun 2026",
+      "end_date": "31 Jan 2027"
+    },
+    {
+      "id": 191,
+      "title": "NSEJS + SEHSS CRASH COURSE",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/7402474_125_Olympaid%20NSEJS%2BSEHSS%20App%20Banners09.png",
+      "mrp": "3500.00",
+      "start_date": "18 Jun 2026",
+      "end_date": "31 Jan 2027"
+    },
+    {
+      "id": 190,
+      "title": "IOQM - CRASH COURSE",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/3074115_125_Olympaid%20IOQM%20App%20Banners09.png",
+      "mrp": "3500.00",
+      "start_date": "18 Jun 2026",
+      "end_date": "10 Dec 2026"
+    },
+    {
+      "id": 179,
+      "title": "AARAMBH 2.0 PLUS 9th BATCH 26-27",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/1219057_125_9th%20aarambh%202.0%20plus%20banner%20app.jpg",
+      "mrp": "4500.00",
+      "start_date": "08 Apr 2026",
+      "end_date": "01 May 2027"
+    },
+    {
+      "id": 178,
+      "title": "AARAMBH 2.0 9th BATCH 26-27",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/4330317_125_9th%20aarambh%202.0%20banner%20app%202.jpg",
+      "mrp": "3500.00",
+      "start_date": "08 Apr 2026",
+      "end_date": "30 Apr 2027"
+    },
+    {
+      "id": 177,
+      "title": "NIRMAAN BATCH  Class 8th",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/3124628_125_Nirbhay%20Batch%20Class%208th%20App%20Banners09-01.jpg",
+      "mrp": "3999.00",
+      "start_date": "22 Mar 2026",
+      "end_date": "30 Mar 2027"
+    },
+    {
+      "id": 176,
+      "title": "AARAMBH 2.0 10th BATCH 26-27",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/356423_125_10th%20aarambh%202.0%20banner%20app%202.jpg",
+      "mrp": "3999.00",
+      "start_date": "15 Mar 2026",
+      "end_date": "30 Jun 2027"
+    },
+    {
+      "id": 122,
+      "title": "CUET (Science)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/346473_125_Science%20CUET%20Batch%20Class%2012th%20PRO%20App%20Banners.jpg",
+      "mrp": "2000.00",
+      "start_date": "16 Feb 2026",
+      "end_date": "30 Jun 2026"
+    },
+    {
+      "id": 124,
+      "title": "CUET (Commerce)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/721208_125_Commerce%20CUET%20Batch%20Class%2012th%20PRO%20App%20Banners.jpg",
+      "mrp": "1999.00",
+      "start_date": "16 Feb 2026",
+      "end_date": "30 Jun 2026"
+    },
+    {
+      "id": 123,
+      "title": "CUET (Humanities)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/6877813_125_Humanities%20CUET%20Batch%20Class%2012th%20PRO%20App%20Banners.jpg",
+      "mrp": "1999.00",
+      "start_date": "16 Feb 2026",
+      "end_date": "30 Jun 2026"
+    },
+    {
+      "id": 110,
+      "title": "Commerce 11th - PRARAMBH PLUS 2.0 ( 2026-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/5668039_125_Commerce%20Prarambh%202.0%20Plus%20Batch%20Class%2011th%20App%20Banners.jpg",
+      "mrp": "5999.00",
+      "start_date": "09 Feb 2026",
+      "end_date": "01 May 2027"
+    },
+    {
+      "id": 108,
+      "title": "Commerce 11th - PRARAMBH 2.0 ( 2026-27 )",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/498047_125_Commerce%20Prarambh%202.0%20Batch%20Class%2011th%20App%20Banners.jpg",
+      "mrp": "3999.00",
+      "start_date": "09 Feb 2026",
+      "end_date": "02 Apr 2027"
+    },
+    {
+      "id": 111,
+      "title": "Humanities 11th - PRARAMBH PLUS  2.0 ( 2026-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/5345603_125_Humanities%20Prarambh%202.0%20Plus%20Batch%20Class%2011th%20App%20Banners.jpg",
+      "mrp": "5999.00",
+      "start_date": "09 Feb 2026",
+      "end_date": "19 May 2027"
+    },
+    {
+      "id": 109,
+      "title": "Humanities 11th - PRARAMBH 2.0 ( 2026-27 )",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/6568182_125_Humanites%20Prarambh%202.0%20Batch%20Class%2011th%20App%20Banners.jpg",
+      "mrp": "3999.00",
+      "start_date": "09 Feb 2026",
+      "end_date": "14 Jul 2027"
+    },
+    {
+      "id": 107,
+      "title": "Science (PCMB) 11th - PRARAMBH 2.0  ( 2026-27 )",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/7450443_125_Science%20Prarambh%202.0%20Batch%20Class%2011th%20App%20Banners.jpg",
+      "mrp": "3999.00",
+      "start_date": "09 Feb 2026",
+      "end_date": "28 May 2027"
+    },
+    {
+      "id": 112,
+      "title": "Science (PCMB) 11th - PRARAMBH PLUS 2.0 ( 2026-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/5976277_125_Science%20Prarambh%202.0%20Plus%20Batch%20Class%2011th%20App%20Banners.jpg",
+      "mrp": "5999.00",
+      "start_date": "09 Feb 2026",
+      "end_date": "01 Jul 2027"
+    },
+    {
+      "id": 103,
+      "title": "Science (PCMB)12th -PRARAMBH  2.0 (2026-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/1153510_125_Science%20Prarambh%202.0%20Batch%20Class%2012th%20App%20Banners.jpg",
+      "mrp": "3999.00",
+      "start_date": "22 Jan 2026",
+      "end_date": "05 Apr 2027"
+    },
+    {
+      "id": 101,
+      "title": "Commerce 12th - PRARAMBH  2.0 (2026-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/379913_125_Commerce%20Prarambh%202.0%20Batch%20Class%2012th%20App%20Banners.jpg",
+      "mrp": "3999.00",
+      "start_date": "22 Jan 2026",
+      "end_date": "01 Apr 2027"
+    },
+    {
+      "id": 104,
+      "title": "Science (PCMB) 12th - PRARAMBH Pro 26-27",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/5551254_125_Science%20Prarambh%202.0%20Batch%20Class%2012th%20PRO%20App%20Banners.jpg",
+      "mrp": "5999.00",
+      "start_date": "22 Jan 2026",
+      "end_date": "01 Apr 2027"
+    },
+    {
+      "id": 102,
+      "title": "Commerce 12th  - PRARAMBH Pro 26-27",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/683473_125_Commerce%20Prarambh%202.0%20Batch%20Class%2012th%20PRO%20App%20Banners.jpg",
+      "mrp": "5999.00",
+      "start_date": "22 Jan 2026",
+      "end_date": "01 Apr 2027"
+    },
+    {
+      "id": 105,
+      "title": "Humanities 12th - PRARAMBH  2.0 (2026-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/7561991_125_Humanites%20Prarambh%202.0%20Batch%20Class%2012th%20App%20Banners.jpg",
+      "mrp": "4999.00",
+      "start_date": "22 Jan 2026",
+      "end_date": "31 Mar 2027"
+    },
+    {
+      "id": 106,
+      "title": "Humanities 12th - PRARAMBH Pro 2.0 (26-27)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/5682204_125_Humanities%20Prarambh%202.0%20Batch%20Class%2012th%20PRO%20App%20Banners.jpg",
+      "mrp": "5999.00",
+      "start_date": "22 Jan 2026",
+      "end_date": "31 May 2027"
+    },
+    {
+      "id": 92,
+      "title": "Science NIRBHAY Pro",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/466570440696_Nirbhay_Science_CUET09.jpg",
+      "mrp": "2499.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 91,
+      "title": "Commerce  NIRBHAY Pro",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/770214940695_WhatsApp_Image_2025-11-23_at_18.46.10.jpeg",
+      "mrp": "2499.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 88,
+      "title": "Humanities 12th - NIRBHAY",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/547817640692_Nirbhay_Class_12th_Humanities.jpg",
+      "mrp": "1999.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 87,
+      "title": "Humanities 11th  - NIRBHAY",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/552700840691_Nirbhay_Class_11th_Humanities.jpg",
+      "mrp": "1999.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 90,
+      "title": "Commerce12th - NIRBHAY",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/637993340694_Nirbhay_Class_12th_Commerce.jpg",
+      "mrp": "1999.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 89,
+      "title": "Commerce11th - NIRBHAY",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/782676440693_Nirbhay_Class_11th_Commerce.jpg",
+      "mrp": "1999.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 93,
+      "title": "Humanities NIRBHAY Pro",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/110723540697_Prarambh_BATCh_Humanites09.jpg",
+      "mrp": "2499.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 86,
+      "title": "Science 12th (PCMB) - NIRBHAY",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/194079640690_Nirbhay_Class_12th_Science.jpg",
+      "mrp": "1999.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 85,
+      "title": "Science 11th (PCMB) - NIRBHAY",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/443372940688_Nirbhay_Class_11th_Science.jpg",
+      "mrp": "1999.00",
+      "start_date": "23 Nov 2025",
+      "end_date": "31 May 2026"
+    },
+    {
+      "id": 83,
+      "title": "UP Board ABHAY 10th (हिंदी माध्यम)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/641788840605_Abhay_UP_Board_(1).png",
+      "mrp": "1499.00",
+      "start_date": "17 Nov 2025",
+      "end_date": "01 Apr 2026"
+    },
+    {
+      "id": 84,
+      "title": "Bihar Board ABHAY 10th(हिंदी माध्यम)",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/540/admin_v1/bundle_management/course/777873140606_Abhay_Bihar_Board_(1).png",
+      "mrp": "1499.00",
+      "start_date": "17 Nov 2025",
+      "end_date": "31 Mar 2026"
+    },
+    {
+      "id": 183,
+      "title": "NIRMAAN Summer Camp 2026",
+      "thumbnail": "https://dylnd2lqy6eys.cloudfront.net/1770981347/admin_v2/uploads/courses/thumbnail/1583344_125_Nirmaan%20Summer%20Camp%20App%20Banners09%20%281%29.jpg",
+      "mrp": "1499.00",
+      "start_date": "",
+      "end_date": ""
+    }
+  ]
+}
